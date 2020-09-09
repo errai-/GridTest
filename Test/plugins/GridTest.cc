@@ -1,4 +1,4 @@
-#include "TEST/Test/plugins/GridTest.h"
+#include "GridTest/Test/plugins/GridTest.h"
 
 #include "SimDataFormats/GeneratorProducts/interface/GenEventInfoProduct.h"
 #include "SimDataFormats/GeneratorProducts/interface/GenLumiInfoHeader.h"
