@@ -15,7 +15,7 @@ Configure CMSSW and build:
  * scram b -j
 
 Go to the working directory and perform a test run:
- * cd Test/python
+ * cd GridTest/Test/python
  * cmsRun runner.py
 
 If everything was ok, change the following in the grid-control.conf file:
